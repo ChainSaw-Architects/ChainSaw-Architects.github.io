@@ -1,2 +1,8 @@
 _site/
 .sass-cache/
+
+# intellij
+.idea/
+*.iml
+*.ipr
+*.iws
