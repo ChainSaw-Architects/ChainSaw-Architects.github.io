@@ -126,7 +126,6 @@ aside {
         .nav > li > a,
         .nav > li > a:focus {
             color: rgba( 255, 102, 153, 1.0 );
-            text-shadow: -1px -1px 1px #336, 1px -1px 1px #336, -1px 1px 1px #336, 1px 1px 1px #336;
             &:hover {
                 color: white;
             }
@@ -134,7 +133,6 @@ aside {
         &.affix {
             background-color: white;
             border-color: rgba($theme-dark, .5);
-            text-shadow: none;
             .navbar-header .navbar-brand {
                 color: $theme-primary;
                 font-size: 14px;
