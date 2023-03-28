@@ -1120,6 +1120,7 @@ img {
 .img-rounded {
   border-radius: 50%;
   width: 200px;
+  border: 4px solid #ff6699;
 }
 
 .rcorners1 {
@@ -4215,7 +4216,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-nav {
-  margin: 7.5px -15px;
+  margin: 15px -15px;
 }
 .navbar-nav > li > a {
   padding-top: 10px;
